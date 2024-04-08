@@ -1,0 +1,40 @@
+{
+    "movies": [
+    {
+        "id": 1,
+        "title": "AlexMan",
+        "genre": "Horror",
+        "length": "1:56",
+        "rottenRating": 100
+    },
+    {
+        "id": 2,
+        "title": "Star Wars: Episode III - Revenge of the Sith",
+        "genre": "Sci-Fi",
+        "length": "2:20",
+        "rottenRating": 79
+    },
+    {
+        "id": 3,
+        "title": "Jarrett Plate: The Worlds Jaw Dropping Pirate",
+        "genre": "Action",
+        "length": "3:25",
+        "rottenRating": -2
+    },
+    {
+        "id": 4,
+        "title": "Up",
+        "genre": "Comedy",
+        "length": "1:36",
+        "rottenRating": 98
+    },
+    {
+        "id": 5,
+        "title": "The Incredibles",
+        "genre": "Comedy",
+        "length": "1:55",
+        "rottenRating": 97
+    }
+    ]
+
+}
